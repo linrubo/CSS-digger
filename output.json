@@ -1,0 +1,2343 @@
+{
+    "align-content": [
+        "start",
+        "end",
+        "flex-start",
+        "flex-end",
+        "center",
+        "normal",
+        "baseline",
+        "first baseline",
+        "last baseline",
+        "space-between",
+        "space-around",
+        "space-evenly",
+        "stretch",
+        "safe",
+        "unsafe"
+    ],
+    "align-items": [
+        "normal",
+        "flex-start",
+        "flex-end",
+        "center",
+        "start",
+        "end",
+        "self-start",
+        "self-end",
+        "baseline",
+        "first baseline",
+        "last baseline",
+        "stretch",
+        "safe",
+        "unsafe"
+    ],
+    "align-self": [
+        "auto",
+        "normal",
+        "self-start",
+        "self-end",
+        "flex-start",
+        "flex-end",
+        "center",
+        "baseline",
+        "first baseline",
+        "last baseline",
+        "stretch",
+        "safe",
+        "unsafe"
+    ],
+    "all": [
+        "initial",
+        "inherit",
+        "unset",
+        "revert"
+    ],
+    "animation": [
+        "<single-animation-iteration-count>",
+        "<single-animation-direction>",
+        "<single-animation-fill-mode>",
+        "<single-animation-play-state>"
+    ],
+    "animation-delay": [
+        "<time>"
+    ],
+    "animation-direction": [
+        "normal",
+        "reverse",
+        "alternate",
+        "alternate-reverse"
+    ],
+    "animation-duration": [
+        "<time>"
+    ],
+    "animation-fill-mode": [
+        "none",
+        "forwards",
+        "backwards",
+        "both"
+    ],
+    "animation-iteration-count": [
+        "infinite",
+        "<number>"
+    ],
+    "animation-name": [
+        "none",
+        "<custom-ident>"
+    ],
+    "animation-play-state": [
+        "running",
+        "paused"
+    ],
+    "animation-timing-function": [
+        "<easing-function>",
+        "ease",
+        "linear",
+        "ease-in",
+        "ease-out",
+        "ease-in-out",
+        "cubic-bezier",
+        "steps",
+        "jump-start",
+        "jump-end",
+        "jump-none",
+        "jump-both",
+        "start",
+        "end",
+        "step-start",
+        "step-end"
+    ],
+    "azimuth": [],
+    "background": [
+        "<attachment>",
+        "<box>",
+        "<background-color>",
+        "<bg-image>",
+        "center",
+        "top",
+        "right",
+        "bottom",
+        "left",
+        "repeat-x",
+        "repeat-y",
+        "repeat",
+        "space",
+        "round",
+        "no-repeat",
+        "<bg-size>"
+    ],
+    "background-attachment": [
+        "fixed",
+        "local",
+        "scroll"
+    ],
+    "background-blend-mode": [
+        "normal",
+        "multiply",
+        "screen",
+        "overlay",
+        "darken",
+        "lighten",
+        "color-dodge",
+        "color-burn",
+        "hard-light",
+        "soft-light",
+        "difference",
+        "exclusion",
+        "hue",
+        "saturation",
+        "color",
+        "luminosity"
+    ],
+    "background-clip": [
+        "border-box",
+        "padding-box",
+        "content-box",
+        "text"
+    ],
+    "background-color": [
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "background-image": [
+        "none",
+        "url",
+        "linear-gradient",
+        "radial-gradient",
+        "repeating-linear-gradient",
+        "repeating-radial-gradient",
+        "conic-gradient",
+        "element",
+        "image",
+        "cross-fade",
+        "image-set"
+    ],
+    "background-origin": [
+        "border-box",
+        "padding-box",
+        "content-box"
+    ],
+    "background-position": [
+        "center",
+        "top",
+        "right",
+        "bottom",
+        "left"
+    ],
+    "background-repeat": [
+        "repeat-x",
+        "repeat-y",
+        "repeat",
+        "space",
+        "round",
+        "no-repeat"
+    ],
+    "background-size": [
+        "contain",
+        "cover",
+        "auto",
+        "<length>",
+        "<percentage>"
+    ],
+    "border": [
+        "<line-width>",
+        "<line-style>",
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "border-bottom": [
+        "<br-width>",
+        "<br-style>",
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "border-bottom-color": [
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "border-bottom-left-radius": [
+        "<length-percentage>"
+    ],
+    "border-bottom-right-radius": [
+        "<length-percentage>"
+    ],
+    "border-bottom-style": [],
+    "border-bottom-width": [
+        "<line-width>"
+    ],
+    "border-collapse": [
+        "collapse",
+        "separate"
+    ],
+    "border-color": [
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "border-image": [],
+    "border-image-outset": [
+        "<length>",
+        "<number>"
+    ],
+    "border-image-repeat": [
+        "stretch",
+        "repeat",
+        "round",
+        "space"
+    ],
+    "border-image-slice": [
+        "<number>",
+        "<percentage>",
+        "fill"
+    ],
+    "border-image-source": [
+        "none",
+        "url",
+        "linear-gradient",
+        "radial-gradient",
+        "repeating-linear-gradient",
+        "repeating-radial-gradient",
+        "conic-gradient",
+        "element",
+        "image",
+        "cross-fade",
+        "image-set"
+    ],
+    "border-image-width": [
+        "<length-percentage>",
+        "<number>",
+        "auto"
+    ],
+    "border-left": [
+        "<br-width>",
+        "<br-style>",
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "border-left-color": [
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "border-left-style": [],
+    "border-left-width": [
+        "<line-width>"
+    ],
+    "border-radius": [
+        "<length>",
+        "<percentage>"
+    ],
+    "border-right": [
+        "<br-width>",
+        "<br-style>",
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "border-right-color": [
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "border-right-style": [],
+    "border-right-width": [
+        "<line-width>"
+    ],
+    "border-spacing": [
+        "<length>"
+    ],
+    "border-style": [
+        "<line-style>",
+        "none",
+        "hidden",
+        "dotted",
+        "dashed",
+        "solid",
+        "double",
+        "groove",
+        "ridge",
+        "inset",
+        "outset"
+    ],
+    "border-top": [
+        "<br-width>",
+        "<br-style>",
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "border-top-color": [
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "border-top-left-radius": [
+        "<length-percentage>"
+    ],
+    "border-top-right-radius": [
+        "<length-percentage>"
+    ],
+    "border-top-style": [],
+    "border-top-width": [
+        "<line-width>"
+    ],
+    "border-width": [
+        "<line-width>"
+    ],
+    "bottom": [
+        "<length>",
+        "<percentage>",
+        "auto",
+        "inherit"
+    ],
+    "box-decoration-break": [
+        "slice",
+        "clone"
+    ],
+    "box-shadow": [
+        "inset",
+        "<offset-x>",
+        "<offset-y>",
+        "<blur-radius>",
+        "<spread-radius>",
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "box-sizing": [
+        "content-box",
+        "border-box"
+    ],
+    "break-after": [
+        "auto",
+        "avoid",
+        "always",
+        "all",
+        "avoid-page",
+        "page",
+        "left",
+        "right",
+        "recto",
+        "verso",
+        "avoid-column",
+        "column",
+        "avoid-region",
+        "region"
+    ],
+    "break-before": [
+        "auto",
+        "avoid",
+        "always",
+        "all",
+        "avoid-page",
+        "page",
+        "left",
+        "right",
+        "recto",
+        "verso",
+        "avoid-column",
+        "column",
+        "avoid-region",
+        "region"
+    ],
+    "break-inside": [
+        "auto",
+        "avoid",
+        "avoid-page",
+        "avoid-column",
+        "avoid-region"
+    ],
+    "caption-side": [
+        "top",
+        "bottom",
+        "block-start",
+        "block-end",
+        "inline-start",
+        "inline-end"
+    ],
+    "caret-color": [
+        "auto",
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "clear": [
+        "none",
+        "left",
+        "right",
+        "both",
+        "inline-start",
+        "inline-end"
+    ],
+    "clip": [
+        "rect",
+        "auto"
+    ],
+    "clip-path": [
+        "<clip-source>",
+        "<basic-shape>",
+        "inset",
+        "circle",
+        "ellipse",
+        "polygon",
+        "path",
+        "<geometry-box>",
+        "margin-box",
+        "border-box",
+        "padding-box",
+        "content-box",
+        "fill-box",
+        "stroke-box",
+        "view-box",
+        "none"
+    ],
+    "clip-rule": [],
+    "color": [
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "color-interpolation-filters": [],
+    "column-count": [
+        "auto",
+        "<integer>"
+    ],
+    "column-fill": [
+        "auto",
+        "balance",
+        "balance-all"
+    ],
+    "column-gap": [
+        "normal",
+        "<length>",
+        "<percentage>"
+    ],
+    "column-rule": [],
+    "column-rule-color": [
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "column-rule-style": [],
+    "column-rule-width": [],
+    "columns": [],
+    "column-span": [
+        "none",
+        "all"
+    ],
+    "column-width": [
+        "<length>",
+        "auto"
+    ],
+    "contain": [
+        "none",
+        "strict",
+        "content",
+        "size",
+        "layout",
+        "style",
+        "paint"
+    ],
+    "content": [
+        "none",
+        "normal",
+        "<string>",
+        "url",
+        "linear-gradient",
+        "radial-gradient",
+        "repeating-linear-gradient",
+        "repeating-radial-gradient",
+        "conic-gradient",
+        "element",
+        "image",
+        "cross-fade",
+        "image-set",
+        "counter",
+        "attr",
+        "open-quote",
+        "close-quote",
+        "no-open-quote",
+        "no-close-quote"
+    ],
+    "counter-increment": [
+        "<custom-ident>",
+        "<integer>",
+        "none"
+    ],
+    "counter-reset": [
+        "<custom-ident>",
+        "<integer>",
+        "none"
+    ],
+    "cue": [],
+    "cue-after": [],
+    "cue-before": [],
+    "cursor": [
+        "url",
+        "<x>",
+        "<y>",
+        "keyword"
+    ],
+    "direction": [
+        "ltr",
+        "rtl"
+    ],
+    "display": [
+        "<display-outside>",
+        "block",
+        "inline",
+        "<display-inside>",
+        "flow",
+        "flow-root",
+        "table",
+        "flex",
+        "grid",
+        "ruby",
+        "<display-listitem>",
+        "<display-internal>",
+        "table-row-group",
+        "table-header-group",
+        "table-footer-group",
+        "table-row",
+        "table-cell",
+        "table-column-group",
+        "table-column",
+        "table-caption",
+        "ruby-base",
+        "ruby-text",
+        "ruby-base-container",
+        "ruby-text-container",
+        "<display-box>",
+        "contents",
+        "none",
+        "<display-legacy>",
+        "inline-block",
+        "inline-table",
+        "inline-flex",
+        "inline-grid"
+    ],
+    "elevation": [],
+    "empty-cells": [
+        "show",
+        "hide"
+    ],
+    "filter": [
+        "<offset-x>",
+        "<offset-y>",
+        "<blur-radius>",
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "flex": [
+        "initial",
+        "auto",
+        "none"
+    ],
+    "flex-basis": [
+        "content"
+    ],
+    "flex-direction": [
+        "row",
+        "row-reverse",
+        "column",
+        "column-reverse"
+    ],
+    "flex-flow": [],
+    "flex-grow": [
+        "<number>"
+    ],
+    "flex-shrink": [
+        "<number>"
+    ],
+    "flex-wrap": [
+        "nowrap",
+        "wrap",
+        "wrap-reverse"
+    ],
+    "float": [
+        "left",
+        "right",
+        "none",
+        "inline-start",
+        "inline-end"
+    ],
+    "flood-color": [],
+    "flood-opacity": [],
+    "font": [
+        "caption",
+        "icon",
+        "menu",
+        "message-box",
+        "small-caption",
+        "status-bar"
+    ],
+    "font-family": [
+        "<family-name>",
+        "<generic-name>",
+        "serif",
+        "sans-serif",
+        "monospace",
+        "cursive",
+        "fantasy",
+        "system-ui",
+        "ui-serif",
+        "ui-sans-serif",
+        "ui-monospace",
+        "ui-rounded",
+        "math",
+        "emoji",
+        "fangsong"
+    ],
+    "font-feature-settings": [
+        "normal",
+        "<feature-tag-value>"
+    ],
+    "font-kerning": [
+        "auto",
+        "normal",
+        "none"
+    ],
+    "font-size": [
+        "xx-small",
+        "x-small",
+        "small",
+        "medium",
+        "large",
+        "x-large",
+        "xx-large",
+        "xxx-large",
+        "larger",
+        "smaller",
+        "<length>",
+        "<percentage>"
+    ],
+    "font-size-adjust": [
+        "none",
+        "ex-height",
+        "cap-height",
+        "ch-width",
+        "ic-width",
+        "ic-height",
+        "<number>"
+    ],
+    "font-stretch": [
+        "normal",
+        "semi-condensed",
+        "condensed",
+        "extra-condensed",
+        "ultra-condensed",
+        "semi-expanded",
+        "expanded",
+        "extra-expanded",
+        "ultra-expanded",
+        "<percentage>"
+    ],
+    "font-style": [
+        "normal",
+        "italic",
+        "oblique",
+        "<angle>"
+    ],
+    "font-synthesis": [
+        "none",
+        "weight",
+        "style",
+        "small-caps"
+    ],
+    "font-variant": [
+        "normal",
+        "none",
+        "<common-lig-values>",
+        "<discretionary-lig-values>",
+        "<historical-lig-values>",
+        "<contextual-alt-values>",
+        "stylistic",
+        "historical-forms",
+        "styleset",
+        "character-variant",
+        "swash",
+        "ornaments",
+        "annotation",
+        "small-caps",
+        "all-small-caps",
+        "petite-caps",
+        "all-petite-caps",
+        "unicase",
+        "titling-caps",
+        "<numeric-figure-values>",
+        "<numeric-spacing-values>",
+        "<numeric-fraction-values>",
+        "ordinal",
+        "slashed-zero",
+        "<east-asian-variant-values>",
+        "<east-asian-width-values>",
+        "ruby"
+    ],
+    "font-variant-caps": [
+        "normal",
+        "small-caps",
+        "all-small-caps",
+        "petite-caps",
+        "all-petite-caps",
+        "unicase",
+        "titling-caps"
+    ],
+    "font-variant-east-asian": [
+        "normal",
+        "ruby",
+        "<east-asian-variant-values>",
+        "<east-asian-width-values>"
+    ],
+    "font-variant-ligatures": [
+        "normal",
+        "none"
+    ],
+    "font-variant-numeric": [
+        "normal",
+        "ordinal",
+        "slashed-zero"
+    ],
+    "font-variant-position": [
+        "normal",
+        "sub",
+        "super"
+    ],
+    "font-weight": [
+        "normal",
+        "bold",
+        "lighter",
+        "bolder",
+        "<number>"
+    ],
+    "gap": [
+        "<length>",
+        "<percentage>"
+    ],
+    "globalcompositeoperation": [],
+    "glyph-orientation-vertical": [],
+    "grid": [],
+    "grid-area": [
+        "auto",
+        "<custom-ident>",
+        "<integer>",
+        "span "
+    ],
+    "grid-auto-columns": [
+        "<length>",
+        "<percentage>",
+        "<flex>",
+        "max-content",
+        "min-content",
+        "minmax",
+        "fit-content",
+        "auto"
+    ],
+    "grid-auto-flow": [
+        "row",
+        "column",
+        "dense"
+    ],
+    "grid-auto-rows": [
+        "<length>",
+        "<percentage>",
+        "<flex>",
+        "max-content",
+        "min-content",
+        "minmax",
+        "fit-content",
+        "auto"
+    ],
+    "grid-column": [
+        "auto",
+        "<custom-ident>",
+        "<integer>",
+        "span "
+    ],
+    "grid-column-end": [
+        "auto",
+        "<custom-ident>",
+        "<integer>",
+        "span "
+    ],
+    "grid-column-gap": [],
+    "grid-column-start": [
+        "auto",
+        "<custom-ident>",
+        "<integer>",
+        "span "
+    ],
+    "grid-gap": [],
+    "grid-row": [
+        "auto",
+        "<custom-ident>",
+        "<integer>",
+        "span "
+    ],
+    "grid-row-end": [
+        "auto",
+        "<custom-ident>",
+        "<integer>",
+        "span "
+    ],
+    "grid-row-gap": [],
+    "grid-row-start": [
+        "auto",
+        "<custom-ident>",
+        "<integer>",
+        "span "
+    ],
+    "grid-template": [
+        "none"
+    ],
+    "grid-template-areas": [
+        "none",
+        "<string>"
+    ],
+    "grid-template-columns": [
+        "none",
+        "<length>",
+        "<percentage>",
+        "<flex>",
+        "max-content",
+        "min-content",
+        "minmax",
+        "auto",
+        "fit-content",
+        "repeat",
+        "masonry",
+        "subgrid"
+    ],
+    "grid-template-rows": [
+        "none",
+        "<length>",
+        "<percentage>",
+        "<flex>",
+        "max-content",
+        "min-content",
+        "minmax",
+        "auto",
+        "fit-content",
+        "repeat",
+        "masonry",
+        "subgrid"
+    ],
+    "hanging-punctuation": [
+        "none",
+        "first",
+        "last",
+        "force-end",
+        "allow-end"
+    ],
+    "height": [
+        "<length>",
+        "<percentage>",
+        "auto",
+        "max-content",
+        "min-content",
+        "fit-content",
+        "<length-percentage>"
+    ],
+    "hyphens": [
+        "none",
+        "manual",
+        "auto"
+    ],
+    "image-orientation": [
+        "none",
+        "from-image",
+        "<angle>",
+        "flip"
+    ],
+    "image-rendering": [
+        "auto",
+        "smooth",
+        "high-quality",
+        "crisp-edges",
+        "pixelated"
+    ],
+    "isolation": [
+        "auto",
+        "isolate"
+    ],
+    "justify-content": [
+        "start",
+        "end",
+        "flex-start",
+        "flex-end",
+        "center",
+        "left",
+        "right",
+        "normal",
+        "baseline first baseline",
+        "last baseline",
+        "space-between",
+        "space-around",
+        "space-evenly",
+        "stretch",
+        "safe",
+        "unsafe"
+    ],
+    "justify-items": [
+        "auto",
+        "normal",
+        "start",
+        "end",
+        "flex-start",
+        "flex-end",
+        "self-start",
+        "self-end",
+        "center",
+        "left",
+        "right",
+        "baseline",
+        "first baseline",
+        "last baseline",
+        "stretch",
+        "safe",
+        "unsafe",
+        "legacy"
+    ],
+    "justify-self": [
+        "auto",
+        "normal",
+        "start",
+        "end",
+        "flex-start",
+        "flex-end",
+        "self-start",
+        "self-end",
+        "center",
+        "left",
+        "right",
+        "baseline",
+        "first baseline",
+        "last baseline",
+        "stretch",
+        "safe",
+        "unsafe"
+    ],
+    "left": [
+        "<length>",
+        "<percentage>",
+        "auto",
+        "inherit"
+    ],
+    "letter-spacing": [
+        "normal",
+        "<length>"
+    ],
+    "lighting-color": [],
+    "line-break": [
+        "auto",
+        "loose",
+        "normal",
+        "strict",
+        "anywhere"
+    ],
+    "line-height": [
+        "normal",
+        "<number>",
+        "<length>",
+        "<percentage>",
+        "-moz-block-height"
+    ],
+    "list-style": [
+        "list-style-type",
+        "list-style-image",
+        "list-style-position",
+        "none"
+    ],
+    "list-style-image": [
+        "url",
+        "linear-gradient",
+        "radial-gradient",
+        "repeating-linear-gradient",
+        "repeating-radial-gradient",
+        "conic-gradient",
+        "element",
+        "image",
+        "cross-fade",
+        "image-set",
+        "none"
+    ],
+    "list-style-position": [
+        "inside",
+        "outside"
+    ],
+    "list-style-type": [
+        "<custom-ident>",
+        "symbols",
+        "<string>",
+        "none",
+        "disc",
+        "circle",
+        "square",
+        "decimal",
+        "cjk-decimal",
+        "decimal-leading-zero",
+        "lower-roman",
+        "upper-roman",
+        "lower-greek",
+        "lower-alpha",
+        "lower-latin",
+        "upper-alpha",
+        "upper-latin",
+        "arabic-indic",
+        "-moz-arabic-indic",
+        "armenian",
+        "bengali",
+        "-moz-bengali",
+        "cambodian",
+        "khmer",
+        "cjk-earthly-branch",
+        "-moz-cjk-earthly-branch",
+        "cjk-heavenly-stem",
+        "-moz-cjk-heavenly-stem",
+        "cjk-ideographic",
+        "devanagari",
+        "-moz-devanagari",
+        "ethiopic-numeric",
+        "georgian",
+        "gujarati",
+        "-moz-gujarati",
+        "gurmukhi",
+        "-moz-gurmukhi",
+        "hebrew",
+        "hiragana",
+        "hiragana-iroha",
+        "japanese-formal",
+        "japanese-informal",
+        "kannada",
+        "-moz-kannada",
+        "katakana",
+        "katakana-iroha",
+        "korean-hangul-formal",
+        "korean-hanja-formal",
+        "korean-hanja-informal",
+        "lao",
+        "-moz-lao",
+        "lower-armenian",
+        "malayalam",
+        "-moz-malayalam",
+        "mongolian",
+        "myanmar",
+        "-moz-myanmar",
+        "oriya",
+        "-moz-oriya",
+        "persian",
+        "-moz-persian",
+        "simp-chinese-formal",
+        "simp-chinese-informal",
+        "tamil",
+        "-moz-tamil",
+        "telugu",
+        "-moz-telugu",
+        "thai",
+        "-moz-thai",
+        "tibetan",
+        "trad-chinese-formal",
+        "trad-chinese-informal",
+        "upper-armenian",
+        "disclosure-open",
+        "disclosure-closed"
+    ],
+    "margin": [
+        "<length>",
+        "<percentage>",
+        "auto"
+    ],
+    "margin-bottom": [
+        "<length>",
+        "<percentage>",
+        "auto"
+    ],
+    "margin-left": [
+        "<length>",
+        "<percentage>",
+        "auto"
+    ],
+    "margin-right": [
+        "<length>",
+        "<percentage>",
+        "auto"
+    ],
+    "margin-top": [
+        "<length>",
+        "<percentage>",
+        "auto"
+    ],
+    "mask": [
+        "<mask-reference>",
+        "<masking-mode>",
+        "center",
+        "top",
+        "right",
+        "bottom",
+        "left",
+        "<bg-size>",
+        "repeat-x",
+        "repeat-y",
+        "repeat",
+        "space",
+        "round",
+        "no-repeat",
+        "<geometry-box>",
+        "<compositing-operator>"
+    ],
+    "mask-border": [],
+    "mask-border-mode": [
+        "luminance",
+        "alpha"
+    ],
+    "mask-border-outset": [
+        "<length>",
+        "<number>"
+    ],
+    "mask-border-repeat": [
+        "stretch",
+        "repeat",
+        "round",
+        "space"
+    ],
+    "mask-border-slice": [
+        "<number>",
+        "<percentage>",
+        "fill"
+    ],
+    "mask-border-source": [
+        "none",
+        "url",
+        "linear-gradient",
+        "radial-gradient",
+        "repeating-linear-gradient",
+        "repeating-radial-gradient",
+        "conic-gradient",
+        "element",
+        "image",
+        "cross-fade",
+        "image-set"
+    ],
+    "mask-border-width": [
+        "<length-percentage>",
+        "<number>",
+        "auto"
+    ],
+    "mask-clip": [
+        "content-box",
+        "padding-box",
+        "border-box",
+        "margin-box",
+        "fill-box",
+        "stroke-box",
+        "view-box",
+        "no-clip",
+        "border",
+        "padding",
+        "content",
+        "text"
+    ],
+    "mask-composite": [
+        "add",
+        "subtract",
+        "intersect",
+        "exclude"
+    ],
+    "mask-image": [
+        "none",
+        "<mask-source>",
+        "url",
+        "linear-gradient",
+        "radial-gradient",
+        "repeating-linear-gradient",
+        "repeating-radial-gradient",
+        "conic-gradient",
+        "element",
+        "image",
+        "cross-fade",
+        "image-set"
+    ],
+    "mask-mode": [
+        "alpha",
+        "luminance",
+        "match-source"
+    ],
+    "mask-origin": [
+        "content-box",
+        "padding-box",
+        "border-box",
+        "margin-box",
+        "fill-box",
+        "stroke-box",
+        "view-box",
+        "content",
+        "padding",
+        "border"
+    ],
+    "mask-position": [
+        "center",
+        "top",
+        "right",
+        "bottom",
+        "left"
+    ],
+    "mask-repeat": [
+        "repeat-x",
+        "repeat-y",
+        "repeat",
+        "space",
+        "round",
+        "no-repeat"
+    ],
+    "mask-size": [
+        "<length>",
+        "<percentage>",
+        "auto",
+        "contain",
+        "cover",
+        "mask-size",
+        "auto auto"
+    ],
+    "mask-type": [
+        "luminance",
+        "alpha"
+    ],
+    "max-height": [
+        "<length>",
+        "<percentage>",
+        "none",
+        "max-content",
+        "min-content",
+        "fit-content",
+        "<length-percentage>"
+    ],
+    "max-width": [
+        "<length>",
+        "<percentage>",
+        "none",
+        "max-content",
+        "min-content",
+        "fit-content",
+        "<length-percentage>"
+    ],
+    "min-height": [
+        "<length>",
+        "<percentage>",
+        "auto",
+        "max-content",
+        "min-content",
+        "fit-content",
+        "<length-percentage>"
+    ],
+    "min-width": [
+        "<length>",
+        "<percentage>",
+        "auto",
+        "max-content",
+        "min-content",
+        "fit-content",
+        "<length-percentage>"
+    ],
+    "mix-blend-mode": [
+        "normal",
+        "multiply",
+        "screen",
+        "overlay",
+        "darken",
+        "lighten",
+        "color-dodge",
+        "color-burn",
+        "hard-light",
+        "soft-light",
+        "difference",
+        "exclusion",
+        "hue",
+        "saturation",
+        "color",
+        "luminosity"
+    ],
+    "object-fit": [
+        "contain",
+        "cover",
+        "fill",
+        "none",
+        "scale-down"
+    ],
+    "object-position": [
+        "center",
+        "top",
+        "right",
+        "bottom",
+        "left"
+    ],
+    "opacity": [
+        "<alpha-value>"
+    ],
+    "order": [
+        "<integer>"
+    ],
+    "orphans": [
+        "<integer>"
+    ],
+    "outline": [],
+    "outline-color": [
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla",
+        "invert"
+    ],
+    "outline-offset": [
+        "<length>"
+    ],
+    "outline-style": [
+        "auto",
+        "none",
+        "dotted",
+        "dashed",
+        "solid",
+        "double",
+        "groove",
+        "ridge",
+        "inset",
+        "outset"
+    ],
+    "outline-width": [
+        "<length>",
+        "thin",
+        "medium",
+        "thick"
+    ],
+    "overflow": [
+        "visible",
+        "hidden",
+        "clip",
+        "scroll",
+        "auto",
+        "overlay",
+        "-moz-scrollbars-none",
+        "-moz-scrollbars-horizontal",
+        "-moz-scrollbars-vertical",
+        "-moz-hidden-unscrollable"
+    ],
+    "overflow-wrap": [
+        "normal",
+        "anywhere",
+        "break-word"
+    ],
+    "padding": [
+        "<length>",
+        "<percentage>"
+    ],
+    "padding-bottom": [
+        "<length>",
+        "<percentage>"
+    ],
+    "padding-left": [
+        "<length>",
+        "<percentage>"
+    ],
+    "padding-right": [
+        "<length>",
+        "<percentage>"
+    ],
+    "padding-top": [
+        "<length>",
+        "<percentage>"
+    ],
+    "page-break-after": [
+        "auto",
+        "always",
+        "avoid",
+        "left",
+        "right",
+        "recto",
+        "verso"
+    ],
+    "page-break-before": [
+        "auto",
+        "always",
+        "avoid",
+        "left",
+        "right",
+        "recto",
+        "verso"
+    ],
+    "page-break-inside": [
+        "auto",
+        "avoid"
+    ],
+    "pause": [],
+    "pause-after": [],
+    "pause-before": [],
+    "pitch": [],
+    "pitch-range": [],
+    "place-content": [
+        "start",
+        "end",
+        "flex-start",
+        "flex-end",
+        "center",
+        "left",
+        "right",
+        "space-between",
+        "baseline",
+        "first baseline",
+        "last baseline",
+        "space-around",
+        "space-evenly",
+        "stretch"
+    ],
+    "place-items": [
+        "auto",
+        "normal",
+        "start",
+        "end",
+        "flex-start",
+        "flex-end",
+        "self-start",
+        "self-end",
+        "center",
+        "left",
+        "right",
+        "baseline",
+        "first baseline",
+        "last baseline",
+        "stretch"
+    ],
+    "place-self": [
+        "auto",
+        "normal",
+        "self-start",
+        "self-end",
+        "flex-start",
+        "flex-end",
+        "center",
+        "baseline",
+        "first baseline",
+        "last baseline",
+        "stretch"
+    ],
+    "play-during": [],
+    "position": [
+        "static",
+        "relative",
+        "absolute",
+        "fixed",
+        "sticky"
+    ],
+    "quotes": [
+        "none",
+        "auto"
+    ],
+    "resize": [
+        "none",
+        "both",
+        "horizontal",
+        "vertical",
+        "block",
+        "inline"
+    ],
+    "rest": [],
+    "rest-after": [],
+    "rest-before": [],
+    "richness": [],
+    "right": [
+        "<length>",
+        "<percentage>",
+        "auto",
+        "inherit"
+    ],
+    "row-gap": [
+        "<length-percentage>"
+    ],
+    "scroll-margin": [
+        "<length>"
+    ],
+    "scroll-margin-block": [
+        "<length>"
+    ],
+    "scroll-margin-block-end": [
+        "<length>"
+    ],
+    "scroll-margin-block-start": [
+        "<length>"
+    ],
+    "scroll-margin-bottom": [
+        "<length>"
+    ],
+    "scroll-margin-inline": [
+        "<length>"
+    ],
+    "scroll-margin-inline-end": [
+        "<length>"
+    ],
+    "scroll-margin-inline-start": [
+        "<length>"
+    ],
+    "scroll-margin-left": [
+        "<length>"
+    ],
+    "scroll-margin-right": [
+        "<length>"
+    ],
+    "scroll-margin-top": [
+        "<length>"
+    ],
+    "scroll-padding": [
+        "<length-percentage>",
+        "auto"
+    ],
+    "scroll-padding-block": [
+        "<length-percentage>",
+        "auto"
+    ],
+    "scroll-padding-block-end": [
+        "<length-percentage>",
+        "auto"
+    ],
+    "scroll-padding-block-start": [
+        "<length-percentage>",
+        "auto"
+    ],
+    "scroll-padding-bottom": [
+        "<length-percentage>",
+        "auto"
+    ],
+    "scroll-padding-inline": [
+        "<length-percentage>",
+        "auto"
+    ],
+    "scroll-padding-inline-end": [
+        "<length-percentage>",
+        "auto"
+    ],
+    "scroll-padding-inline-start": [
+        "<length-percentage>",
+        "auto"
+    ],
+    "scroll-padding-left": [
+        "<length-percentage>",
+        "auto"
+    ],
+    "scroll-padding-right": [
+        "<length-percentage>",
+        "auto"
+    ],
+    "scroll-padding-top": [
+        "<length-percentage>",
+        "auto"
+    ],
+    "scroll-snap-align": [
+        "none",
+        "start",
+        "end",
+        "center"
+    ],
+    "scroll-snap-stop": [
+        "normal",
+        "always"
+    ],
+    "scroll-snap-type": [
+        "none",
+        "x",
+        "y",
+        "block",
+        "inline",
+        "both",
+        "mandatory",
+        "proximity"
+    ],
+    "shape-image-threshold": [
+        "<alpha-value>"
+    ],
+    "shape-margin": [
+        "<length-percentage>"
+    ],
+    "shape-outside": [
+        "none",
+        "<shape-box>",
+        "margin-box",
+        "border-box",
+        "padding-box",
+        "content-box",
+        "<basic-shape>",
+        "url",
+        "linear-gradient",
+        "radial-gradient",
+        "repeating-linear-gradient",
+        "repeating-radial-gradient",
+        "conic-gradient",
+        "element",
+        "image",
+        "cross-fade",
+        "image-set"
+    ],
+    "speak": [],
+    "speak-as": [],
+    "speak-header": [],
+    "speak-numeral": [],
+    "speak-punctuation": [],
+    "speech-rate": [],
+    "stress": [],
+    "table-layout": [
+        "auto",
+        "fixed"
+    ],
+    "tab-size": [
+        "<integer>",
+        "<length>"
+    ],
+    "text-align": [
+        "start",
+        "end",
+        "left",
+        "right",
+        "center",
+        "justify",
+        "justify-all",
+        "match-parent",
+        "<string>"
+    ],
+    "text-align-all": [],
+    "text-align-last": [
+        "auto",
+        "start",
+        "end",
+        "left",
+        "right",
+        "center",
+        "justify"
+    ],
+    "text-combine-upright": [
+        "none",
+        "all",
+        "digits "
+    ],
+    "text-decoration": [
+        "text-decoration-line",
+        "text-decoration-color",
+        "text-decoration-style",
+        "text-decoration-thickness"
+    ],
+    "text-decoration-color": [
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "text-decoration-line": [
+        "none",
+        "underline",
+        "overline",
+        "line-through",
+        "blink"
+    ],
+    "text-decoration-style": [],
+    "text-emphasis": [
+        "none",
+        "filled",
+        "open",
+        "dot",
+        "circle",
+        "double-circle",
+        "triangle",
+        "sesame",
+        "<string>",
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "text-emphasis-color": [
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla"
+    ],
+    "text-emphasis-position": [
+        "over",
+        "under",
+        "right",
+        "left"
+    ],
+    "text-emphasis-style": [
+        "none",
+        "filled",
+        "open",
+        "dot",
+        "circle",
+        "double-circle",
+        "triangle",
+        "sesame",
+        "<string>"
+    ],
+    "text-indent": [
+        "<length>",
+        "<percentage>",
+        "each-line",
+        "hanging"
+    ],
+    "text-justify": [
+        "none",
+        "auto",
+        "inter-word",
+        "inter-character",
+        "distribute"
+    ],
+    "text-orientation": [
+        "mixed",
+        "upright",
+        "sideways",
+        "sideways-right",
+        "use-glyph-orientation"
+    ],
+    "text-overflow": [
+        "clip",
+        "ellipsis",
+        "<string>",
+        "fade"
+    ],
+    "text-shadow": [
+        "aqua",
+        "black",
+        "blue",
+        "fuchsia",
+        "gray",
+        "green",
+        "lime",
+        "maroon",
+        "navy",
+        "olive",
+        "purple",
+        "red",
+        "silver",
+        "teal",
+        "white",
+        "yellow",
+        "transparent",
+        "currentColor",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla",
+        "<offset-x>",
+        "<blur-radius>"
+    ],
+    "text-transform": [
+        "capitalize",
+        "uppercase",
+        "lowercase",
+        "none",
+        "full-width",
+        "full-size-kana"
+    ],
+    "text-underline-position": [
+        "auto",
+        "from-font",
+        "under",
+        "left",
+        "right",
+        "auto-pos",
+        "above",
+        "below"
+    ],
+    "top": [
+        "<length>",
+        "<percentage>",
+        "auto",
+        "inherit"
+    ],
+    "transform": [
+        "matrix",
+        "matrix3d",
+        "perspective",
+        "rotate",
+        "rotate3d",
+        "rotateX",
+        "rotateY",
+        "rotateZ",
+        "scale",
+        "scale3d",
+        "scaleX",
+        "scaleY",
+        "scaleZ",
+        "skew",
+        "skewX",
+        "skewY",
+        "translate",
+        "translate3d",
+        "translateX",
+        "translateY",
+        "translateZ",
+        "none"
+    ],
+    "transform-box": [
+        "content-box",
+        "border-box",
+        "fill-box",
+        "stroke-box",
+        "view-box"
+    ],
+    "transform-origin": [],
+    "transition": [],
+    "transition-delay": [
+        "<time>"
+    ],
+    "transition-duration": [
+        "<time>"
+    ],
+    "transition-property": [
+        "none",
+        "all",
+        "<custom-ident>"
+    ],
+    "transition-timing-function": [
+        "<easing-function>",
+        "ease",
+        "linear",
+        "ease-in",
+        "ease-out",
+        "ease-in-out",
+        "cubic-bezier",
+        "steps",
+        "jump-start",
+        "jump-end",
+        "jump-none",
+        "jump-both",
+        "start",
+        "end",
+        "step-start",
+        "step-end"
+    ],
+    "unicode-bidi": [
+        "normal",
+        "embed",
+        "bidi-override",
+        "isolate",
+        "isolate-override",
+        "plaintext"
+    ],
+    "vertical-align": [
+        "baseline",
+        "sub",
+        "super",
+        "text-top",
+        "text-bottom",
+        "middle",
+        "<length>",
+        "<percentage>",
+        "top",
+        "bottom"
+    ],
+    "visibility": [
+        "visible",
+        "hidden",
+        "collapse"
+    ],
+    "voice-balance": [],
+    "voice-duration": [],
+    "voice-family": [],
+    "voice-pitch": [],
+    "voice-range": [],
+    "voice-rate": [],
+    "voice-stress": [],
+    "voice-volume": [],
+    "volume": [],
+    "white-space": [
+        "normal",
+        "nowrap",
+        "pre",
+        "pre-wrap",
+        "pre-line",
+        "break-spaces"
+    ],
+    "widows": [
+        "<integer>"
+    ],
+    "width": [
+        "<length>",
+        "<percentage>",
+        "auto",
+        "max-content",
+        "min-content",
+        "fit-content",
+        "<length-percentage>"
+    ],
+    "will-change": [
+        "auto",
+        "scroll-position",
+        "contents",
+        "<custom-ident>"
+    ],
+    "word-break": [
+        "normal",
+        "break-all",
+        "keep-all",
+        "break-word"
+    ],
+    "word-spacing": [
+        "normal",
+        "<length>",
+        "<percentage>"
+    ],
+    "word-wrap": [],
+    "writing-mode": [
+        "horizontal-tb",
+        "vertical-rl",
+        "vertical-lr",
+        "sideways-rl",
+        "sideways-lr",
+        "lr",
+        "lr-tb",
+        "rl",
+        "tb",
+        "tb-lr",
+        "tb-rl"
+    ],
+    "z-index": [
+        "auto",
+        "<integer>"
+    ]
+}
